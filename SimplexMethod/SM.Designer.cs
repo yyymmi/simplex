@@ -1,6 +1,6 @@
 ﻿namespace SimplexMethod
 {
-    partial class MainScreen
+    partial class Simp
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainScreen));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Simp));
             this.nOfContraintsTextBox = new System.Windows.Forms.TextBox();
             this.nOfVariablesTextBox = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -65,9 +65,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 26);
+            this.label1.Location = new System.Drawing.Point(17, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 21);
+            this.label1.Size = new System.Drawing.Size(130, 21);
             this.label1.TabIndex = 2;
             this.label1.Text = "N. of constraints";
             // 
@@ -116,7 +116,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(194, 26);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 21);
+            this.label2.Size = new System.Drawing.Size(114, 21);
             this.label2.TabIndex = 3;
             this.label2.Text = "N. of variables";
             // 
@@ -125,7 +125,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(728, 213);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(36, 21);
+            this.label3.Size = new System.Drawing.Size(38, 21);
             this.label3.TabIndex = 8;
             this.label3.Text = "Extr";
             // 
@@ -180,7 +180,7 @@
             this.resultsLbl.Size = new System.Drawing.Size(0, 21);
             this.resultsLbl.TabIndex = 13;
             // 
-            // MainScreen
+            // Simp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -202,8 +202,8 @@
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5);
-            this.Name = "MainScreen";
-            this.Text = "Simplex Method";
+            this.Name = "Simp";
+            this.Text = "Симплекс метод";
             ((System.ComponentModel.ISupportInitialize)(this.constraintsGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.functionGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.resultsGridView)).EndInit();

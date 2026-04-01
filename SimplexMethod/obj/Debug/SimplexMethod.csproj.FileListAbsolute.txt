@@ -16,3 +16,223 @@ C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.For
 C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
 C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.Cache
 C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.MainScreen.resources
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.Main.resources
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.Simp.resources
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.Graph.resources
+C:\Users\PipaPOPO\Source\Repos\simplex\SimplexMethod\obj\Debug\SimplexMethod.HP.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\bin\Debug\SimplexMethod.pdb
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.Graph.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.HP.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.Main.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.Simp.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.exe
+D:\что-то полузное от 4 курса\Новая папка\simplex\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.Graph.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.GraphicalMetodOne.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.HP.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.Main.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.Simp.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\simplex\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.Graph.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.GraphicalMetodOne.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.HP.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.Main.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.Simp.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexMethod.SmMetodOne.resources
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.CommonProtos.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Auth.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Core.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Location.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.LongRunning.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Protobuf.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Auth.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.Api.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Client.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Common.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Newtonsoft.Json.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Buffers.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Memory.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Numerics.Vectors.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.CommonProtos.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Auth.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Auth.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Core.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Apis.Core.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Location.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Cloud.Location.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.LongRunning.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.LongRunning.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Protobuf.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Google.Protobuf.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Auth.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Auth.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.Api.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Core.Api.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Client.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Client.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Common.pdb
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Grpc.Net.Common.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\Newtonsoft.Json.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Buffers.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Memory.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Numerics.Vectors.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Other\Programm on C# for mdk 02\Build 2\simplex\SimplexMethod\obj\Debug\SimplexM.FD31CD21.Up2Date
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Graph.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.GraphicalMetodOne.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.HP.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Main.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Simp.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.SmMetodOne.resources
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.CommonProtos.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Auth.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Core.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Location.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.LongRunning.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Protobuf.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Auth.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.Api.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Client.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Common.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Newtonsoft.Json.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Buffers.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Memory.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Numerics.Vectors.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.CommonProtos.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Auth.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Auth.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Core.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Apis.Core.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.AIPlatform.V1.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Iam.V1.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Location.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Cloud.Location.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.LongRunning.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.LongRunning.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Protobuf.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Google.Protobuf.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Auth.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Auth.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.Api.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Core.Api.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Client.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Client.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Common.pdb
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Grpc.Net.Common.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\Newtonsoft.Json.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Buffers.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Memory.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Numerics.Vectors.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Other\Programm on C# for mdk 02\Build 3\SimplexMethod\SimplexMethod\obj\Debug\SimplexM.FD31CD21.Up2Date

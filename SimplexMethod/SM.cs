@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading.Tasks;
 
 namespace SimplexMethod
 {
-    public partial class MainScreen : System.Windows.Forms.Form
+    public partial class Simp : System.Windows.Forms.Form
     {
-        public MainScreen()
+        public Simp()
         {
             InitializeComponent();
         }
